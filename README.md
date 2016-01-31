@@ -12,4 +12,4 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 I have included the following files:
 -	Run_analysis.R: a script that contains all the codes to perform the 5 steps to clean the original data.
 -	dataset_means_tidy.txt: a text file with the tidy data after performing the analysis described in Run_analysis.R
--	CodeBook.md: it describes the variables, the data and the transformations carried out to clean up the original data.
+-	Codebook.md: it describes the variables, the data and the transformations carried out to clean up the original data.
